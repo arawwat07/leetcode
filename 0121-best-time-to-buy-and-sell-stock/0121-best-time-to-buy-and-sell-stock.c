@@ -1,11 +1,7 @@
 int maxProfit(int* prices, int pricesSize) {
-    int i=0,b=1000,b1=0,b2=0,k=0,s1=-1,s2=-1,profit=-1;
+    int i=0,b=prices[0],b1=0,b2=0,k=0,s1=-1,s2=-1,profit=-1;
     for (i=0; i<pricesSize; i++)
     {
-        if (i==0)
-        {
-            b=*(prices + i);
-        }
         if (b>*(prices + i))
         {
             b=*(prices + i);
