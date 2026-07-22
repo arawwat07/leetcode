@@ -44,8 +44,5 @@ int maxProfit(int* prices, int pricesSize) {
     {
         return b2;
     }
-    else 
-    {
-        return 0;
-    }
+    return 0;
 }
