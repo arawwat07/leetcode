@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/arawwat07/leetcode/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/arawwat07/leetcode/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/arawwat07/leetcode/tree/master/3945-digit-frequency-score) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/arawwat07/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
