@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arawwat07/leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/arawwat07/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/arawwat07/leetcode/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arawwat07/leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/arawwat07/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
