@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/arawwat07/leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/arawwat07/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/arawwat07/leetcode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arawwat07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arawwat07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arawwat07/leetcode/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/arawwat07/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
