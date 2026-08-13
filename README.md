@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/arawwat07/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/arawwat07/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/arawwat07/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/arawwat07/leetcode/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arawwat07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/arawwat07/leetcode/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arawwat07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arawwat07/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/arawwat07/leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arawwat07/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/arawwat07/leetcode/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
