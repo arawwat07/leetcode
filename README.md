@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arawwat07/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arawwat07/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arawwat07/leetcode/tree/master/0125-valid-palindrome) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/arawwat07/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/arawwat07/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/arawwat07/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
