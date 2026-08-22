@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/arawwat07/leetcode/tree/master/2235-add-two-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arawwat07/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arawwat07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arawwat07/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arawwat07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/arawwat07/leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
