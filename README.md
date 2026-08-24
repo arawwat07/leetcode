@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/arawwat07/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/arawwat07/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/arawwat07/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/arawwat07/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arawwat07/leetcode/tree/master/0326-power-of-three) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/arawwat07/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/arawwat07/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/arawwat07/leetcode/tree/master/0342-power-of-four) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/arawwat07/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arawwat07/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arawwat07/leetcode/tree/master/0125-valid-palindrome) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/arawwat07/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arawwat07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
