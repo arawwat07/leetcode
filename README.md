@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/arawwat07/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/arawwat07/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/arawwat07/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/arawwat07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arawwat07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arawwat07/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arawwat07/leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/arawwat07/leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/arawwat07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
 |  |
 | ------- |
