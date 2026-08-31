@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arawwat07/leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/arawwat07/leetcode/tree/master/0415-add-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arawwat07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/arawwat07/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/arawwat07/leetcode/tree/master/1927-sum-game) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/arawwat07/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arawwat07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
