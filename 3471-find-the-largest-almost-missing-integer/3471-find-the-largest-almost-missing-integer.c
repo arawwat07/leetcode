@@ -1,40 +1,41 @@
 int largestInteger(int* nums, int numsSize, int k) {
-    int i=0, j=0, largest=-1, ans=-1;
+    int max=-1, i=0, j=0;
     for (i=0; i<numsSize; i++)
     {
-        if (nums[i]>largest)
+        if (nums[i]>max)
         {
-            largest=nums[i];
+            max=nums[i];
         }
     }
-    int freq[largest+1]={};
-    for (int i = 0; i < numsSize; i++) 
-    {
-        freq[nums[i]]++;
-    }
-    if (k==1)
-    {
-        for (int i = largest; i >= 0; i--) {
-            if (freq[i] == 1)
-                return i;
-        }
-        return -1;
-    }
-    if (k == numsSize) {
-        for (int i = largest; i >= 0; i--) {
-            if (freq[i] > 0)
-                return i;
-        }
-        return -1;
-    }
+    int freq[max+1]={};
+    int occur[51]={};
     i=0;
-    if (freq[nums[0]]==1)
+    while (i<numsSize)
     {
-        ans=nums[0];
+        for (int i = 0; i < 51; i++) 
+        {
+        occur[i] = 0;
+        }
+        if ((k+i)<=numsSize)
+        {
+        for (j=i; j<k+i; j++)
+        {
+            occur[nums[j]]++;
+            if (occur[nums[j]]<=1)
+            {
+                freq[nums[j]]++;
+            }
+        }
+        }
+        i++;
     }
-    if (freq[nums[numsSize-1]]==1 && nums[numsSize-1]>ans)
+    int ans=-1;
+    for (i=0; i<max+1; i++)
     {
-        return nums[numsSize-1];
+        if (freq[i]==1 && i>ans)
+        {
+            ans=i;
+        }
     }
     return ans;
 }
