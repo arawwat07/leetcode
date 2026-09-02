@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arawwat07/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arawwat07/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/arawwat07/leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/arawwat07/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/arawwat07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arawwat07/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arawwat07/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/arawwat07/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/arawwat07/leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
