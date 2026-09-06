@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/arawwat07/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/arawwat07/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/arawwat07/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arawwat07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/arawwat07/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arawwat07/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arawwat07/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/arawwat07/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/arawwat07/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arawwat07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/arawwat07/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/arawwat07/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arawwat07/leetcode/tree/master/0326-power-of-three) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/arawwat07/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/arawwat07/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arawwat07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arawwat07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
