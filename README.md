@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/arawwat07/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arawwat07/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/arawwat07/leetcode/tree/master/0415-add-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arawwat07/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arawwat07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/arawwat07/leetcode/tree/master/1927-sum-game) |
@@ -224,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/arawwat07/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arawwat07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arawwat07/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arawwat07/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
