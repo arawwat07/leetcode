@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/arawwat07/leetcode/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arawwat07/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arawwat07/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/arawwat07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arawwat07/leetcode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/arawwat07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arawwat07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/arawwat07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
