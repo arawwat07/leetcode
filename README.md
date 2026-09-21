@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/arawwat07/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arawwat07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arawwat07/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/arawwat07/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/arawwat07/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/arawwat07/leetcode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/arawwat07/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arawwat07/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arawwat07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/arawwat07/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/arawwat07/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/arawwat07/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arawwat07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/arawwat07/leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/arawwat07/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/arawwat07/leetcode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/arawwat07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arawwat07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
