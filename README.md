@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/arawwat07/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arawwat07/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/arawwat07/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arawwat07/leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/arawwat07/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arawwat07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arawwat07/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arawwat07/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/arawwat07/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arawwat07/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arawwat07/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arawwat07/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/arawwat07/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arawwat07/leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/arawwat07/leetcode/tree/master/0415-add-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arawwat07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
