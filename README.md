@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arawwat07/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/arawwat07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2716-minimize-string-length](https://github.com/arawwat07/leetcode/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arawwat07/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arawwat07/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/arawwat07/leetcode/tree/master/1927-sum-game) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/arawwat07/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2716-minimize-string-length](https://github.com/arawwat07/leetcode/tree/master/2716-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arawwat07/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arawwat07/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/arawwat07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
