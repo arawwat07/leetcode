@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/arawwat07/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/arawwat07/leetcode/tree/master/1927-sum-game) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/arawwat07/leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arawwat07/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arawwat07/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/arawwat07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
