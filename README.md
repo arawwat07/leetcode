@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/arawwat07/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/arawwat07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/arawwat07/leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arawwat07/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arawwat07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arawwat07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arawwat07/leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/arawwat07/leetcode/tree/master/0905-sort-array-by-parity) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arawwat07/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/arawwat07/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arawwat07/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/arawwat07/leetcode/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arawwat07/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arawwat07/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
