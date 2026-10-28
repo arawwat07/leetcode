@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arawwat07/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/arawwat07/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/arawwat07/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arawwat07/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/arawwat07/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/arawwat07/leetcode/tree/master/0231-power-of-two) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arawwat07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arawwat07/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/arawwat07/leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/arawwat07/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/arawwat07/leetcode/tree/master/0367-valid-perfect-square) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arawwat07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arawwat07/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
