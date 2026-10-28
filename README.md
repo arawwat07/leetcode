@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/arawwat07/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/arawwat07/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arawwat07/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/arawwat07/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/arawwat07/leetcode/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/arawwat07/leetcode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arawwat07/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arawwat07/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arawwat07/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arawwat07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/arawwat07/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/arawwat07/leetcode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arawwat07/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arawwat07/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/arawwat07/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arawwat07/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/arawwat07/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/arawwat07/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/arawwat07/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/arawwat07/leetcode/tree/master/1929-concatenation-of-array) |
