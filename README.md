@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arawwat07/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arawwat07/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arawwat07/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arawwat07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arawwat07/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arawwat07/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/arawwat07/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/arawwat07/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arawwat07/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arawwat07/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arawwat07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arawwat07/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arawwat07/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/arawwat07/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arawwat07/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/arawwat07/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arawwat07/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arawwat07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arawwat07/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arawwat07/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/arawwat07/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/arawwat07/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/arawwat07/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arawwat07/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arawwat07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/arawwat07/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/arawwat07/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arawwat07/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/arawwat07/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/arawwat07/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/arawwat07/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arawwat07/leetcode/tree/master/0938-range-sum-of-bst) |
 ## String Matching
