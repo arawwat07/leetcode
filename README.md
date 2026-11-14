@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arawwat07/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arawwat07/leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arawwat07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arawwat07/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/arawwat07/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arawwat07/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arawwat07/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arawwat07/leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arawwat07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/arawwat07/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arawwat07/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arawwat07/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arawwat07/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/arawwat07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/arawwat07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arawwat07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arawwat07/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/arawwat07/leetcode/tree/master/0771-jewels-and-stones) |
 | [2716-minimize-string-length](https://github.com/arawwat07/leetcode/tree/master/2716-minimize-string-length) |
