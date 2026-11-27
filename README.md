@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arawwat07/leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arawwat07/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arawwat07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arawwat07/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arawwat07/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arawwat07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arawwat07/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arawwat07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arawwat07/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arawwat07/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/arawwat07/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/arawwat07/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arawwat07/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/arawwat07/leetcode/tree/master/0771-jewels-and-stones) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arawwat07/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2716-minimize-string-length](https://github.com/arawwat07/leetcode/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arawwat07/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arawwat07/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/arawwat07/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/arawwat07/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arawwat07/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arawwat07/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/arawwat07/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/arawwat07/leetcode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/arawwat07/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arawwat07/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arawwat07/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/arawwat07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
@@ -460,4 +465,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arawwat07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/arawwat07/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
